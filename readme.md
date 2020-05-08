@@ -1,8 +1,8 @@
-#About Myself
+# About Myself
 
 My name is _Xuan Zitong_. My major is Computer Science.I have never used GitHub before.
 
-##Languages I learn
+## Languages I learn
 
 * C
 * Java
@@ -10,10 +10,10 @@ My name is _Xuan Zitong_. My major is Computer Science.I have never used GitHub 
 
 ## Things I want to do
 
--[x] play Animal Crossing
--[] play Xenoblade definite edition
--[] not spend so many time playing Nintendo Switch
--[] read a book in May
+- [x] play Animal Crossing
+- [] play Xenoblade definite edition
+- [] not spend so many time playing Nintendo Switch
+- [] read a book in May
 
 My SID | My name
 ------ | -------
